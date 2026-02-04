@@ -1,7 +1,8 @@
-# Eliza Abing
-A passionate BSIT student and creative developer from Philippines. I build efficient, user-centric digital solutions by blending modern full-stack development with thoughtful UI/UX design.
----
+# Eliza Abing  
 
+A passionate BSIT student and creative developer from the Philippines. I build efficient, user-centric digital solutions by blending modern full-stack development with thoughtful UI/UX design.
+
+----
 ## Technical Skills
 
 **Languages**  
