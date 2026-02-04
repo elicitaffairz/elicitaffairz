@@ -42,4 +42,6 @@ PostgreSQL • MySQL • Supabase • Git • VS Code
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&borderRadius=10)](https://github.com/dlwlrmwa)
 
 </div>
-<sub>"Last updated: February 2026</sub>
+<p align="center">
+  <sub>Last updated: February 2026</sub>
+</p>
