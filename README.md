@@ -1,29 +1,3 @@
-# Eliza Abing  
-
-A passionate BSIT student and creative developer from the Philippines. I build efficient, user-centric digital solutions by blending modern full-stack development with thoughtful UI/UX design.
-
-----
-## Technical Skills
-
-**Languages**  
-Typescript • Python • JavaScript • Java • C++ • HTML5 • CSS3
-
-**Frameworks & Libraries**  
-React • Next.js • Node.js • Express.js • Tailwind CSS
-
-**Databases & Tools**  
-PostgreSQL • MySQL • Supabase • Git • VS Code
-
----
-
-
-## Currently
-
-- Expanding full-stack development skills with modern frameworks
-- Contributing to open-source projects
-- Exploring system design and scalable architecture patterns
-
----
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=dlwlrmwa&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=8B949E&border_radius=7" width="45%"/>
