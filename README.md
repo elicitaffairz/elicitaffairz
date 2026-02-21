@@ -14,5 +14,5 @@
 
 </div>
 <p align="center">
-  <sub>Last updated: February 11, 2026</sub>
+  <sub>Last updated: February 21, 2026</sub>
 </p>
