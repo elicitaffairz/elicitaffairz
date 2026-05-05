@@ -1,18 +1,38 @@
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=elicitaffairz&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=8B949E&border_radius=7" width="45%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elicitaffairz&custom_title=Contribution%20Timeline&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=58A6FF&area=true&hide_border=true&radius=7" width="50%" alt="Contribution Graph"/>
-</div>
-
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white&borderRadius=10)](https://eliza-abing-port.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=10)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&borderRadius=10)](mailto:abing.eliza@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&borderRadius=10)](https://github.com/dlwlrmwa)
+# <a href="https://www.instagram.com/aei.lz" style="color: inherit; text-decoration: none;">@aei.lz</a>
+
+**`aspiring something`**
+
+![line](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-6B8F4E?style=flat&labelColor=6B8F4E)
 
 </div>
-<p align="center">
-  <sub>Last updated: February 21, 2026</sub>
-</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=elicitaffairz&theme=dark&hide_border=true&background=0E0E0E&stroke=6B8F4E&ring=6B8F4E&fire=8DB86A&currStreakLabel=C8E6B0&sideNums=C8E6B0&currStreakNum=C8E6B0&sideLabels=8DB86A&dates=7A9B62&border_radius=14" width="45%"/>
+  &nbsp;
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elicitaffairz&custom_title=Contribution%20Timeline&bg_color=0E0E0E&color=8DB86A&line=6B8F4E&point=C8E6B0&area_color=6B8F4E&area=true&hide_border=true&radius=14" width="50%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0E0E0E?style=for-the-badge&logo=google-chrome&logoColor=C8E6B0)](https://eliza-abing-port.vercel.app/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0E0E0E?style=for-the-badge&logo=linkedin&logoColor=8DB86A)](https://linkedin.com/in/your-profile)&nbsp;
+[![Email](https://img.shields.io/badge/Email-0E0E0E?style=for-the-badge&logo=gmail&logoColor=C8E6B0)](mailto:abing.eliza@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0E0E0E?style=for-the-badge&logo=github&logoColor=8DB86A)](https://github.com/elicitaffairz)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6B8F4E&height=80&section=footer)
+
+  <sub><code>Last updated: May 5, 2026</code></sub>
+  
+</div>
