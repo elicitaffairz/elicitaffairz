@@ -4,8 +4,6 @@
 
 **`aspiring something`**
 
-![line](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-6B8F4E?style=flat&labelColor=6B8F4E)
-
 </div>
 
 <br/>
