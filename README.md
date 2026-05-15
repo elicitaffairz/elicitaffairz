@@ -31,6 +31,6 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=6B8F4E&height=80&section=footer)
 
-  <sub><code>Last updated: May 5, 2026</code></sub>
+  <sub><code>Last updated: May 15, 2026</code></sub>
   
 </div>
